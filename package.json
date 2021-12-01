@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@google-cloud/datastore": "^6.6.2",
     "express": "^4.17.1",
     "mongodb": "^4.2.0",
     "nodemon": "^2.0.15"
